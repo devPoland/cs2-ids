@@ -2,6 +2,14 @@
     {
         "weapon_defindex": 7,
         "weapon_name": "weapon_ak47",
+        "paint": 1449,
+        "paint_name": "AK-47 | AUTOEXEC",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_autoexec_camo_light_png.png"
+    },
+    {
+        "weapon_defindex": 7,
+        "weapon_name": "weapon_ak47",
         "paint": 1425,
         "paint_name": "AK-47 | Crane Flight",
         "legacy_model": false,
@@ -14,6 +22,14 @@
         "paint_name": "AK-47 | Searing Rage",
         "legacy_model": false,
         "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WRbbx9LP-AB3GV_uJ_t-l9AXu2lk1xsD-EnI3_JHmeaAV1CZB1RbEJtxfuxNHuMuq251PY3o4UxXjgznQeg4Qz-rg"
+    },
+    {
+        "weapon_defindex": 7,
+        "weapon_name": "weapon_ak47",
+        "paint": 1466,
+        "paint_name": "AK-47 | Consequence of the Jinn",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_jinn_consequence_light_png.png"
     },
     {
         "weapon_defindex": 7,
@@ -562,6 +578,22 @@
     {
         "weapon_defindex": 8,
         "weapon_name": "weapon_aug",
+        "paint": 1452,
+        "paint_name": "AUG | Signal Scanner",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_ghost_signal_light_png.png"
+    },
+    {
+        "weapon_defindex": 8,
+        "weapon_name": "weapon_aug",
+        "paint": 1464,
+        "paint_name": "AUG | Lapis Lazuli",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_lapis_lazuli_light_png.png"
+    },
+    {
+        "weapon_defindex": 8,
+        "weapon_name": "weapon_aug",
         "paint": 121,
         "paint_name": "AUG | Luxe Trim",
         "legacy_model": false,
@@ -882,6 +914,14 @@
     {
         "weapon_defindex": 9,
         "weapon_name": "weapon_awp",
+        "paint": 1467,
+        "paint_name": "AWP | Black Box",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_black_box_light_png.png"
+    },
+    {
+        "weapon_defindex": 9,
+        "weapon_name": "weapon_awp",
         "paint": 1346,
         "paint_name": "AWP | Ice Coaled",
         "legacy_model": false,
@@ -910,6 +950,14 @@
         "paint_name": "AWP | Queen's Gambit",
         "legacy_model": false,
         "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OO7baFjM8-UD2qSyPpJvOhuRz39kUpw42zWntiteSiVaQYhCJJzEeIOukSwl4XmPrmw4VHXjtpExC_33zQJsHjNnJgjQA"
+    },
+    {
+        "weapon_defindex": 9,
+        "weapon_name": "weapon_awp",
+        "paint": 1465,
+        "paint_name": "AWP | Sovereign Flame",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_sovereign_flame_light_png.png"
     },
     {
         "weapon_defindex": 9,
@@ -1546,6 +1594,14 @@
     {
         "weapon_defindex": 26,
         "weapon_name": "weapon_bizon",
+        "paint": 1472,
+        "paint_name": "PP-Bizon | Traitor",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_bizon_traitor_light_png.png"
+    },
+    {
+        "weapon_defindex": 26,
+        "weapon_name": "weapon_bizon",
         "paint": 349,
         "paint_name": "PP-Bizon | Osiris",
         "legacy_model": true,
@@ -1954,6 +2010,14 @@
     {
         "weapon_defindex": 63,
         "weapon_name": "weapon_cz75a",
+        "paint": 1443,
+        "paint_name": "CZ75-Auto | Hydraulics",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_cz75a_cz75_hydraulics_light_png.png"
+    },
+    {
+        "weapon_defindex": 63,
+        "weapon_name": "weapon_cz75a",
         "paint": 687,
         "paint_name": "CZ75-Auto | Tacticat",
         "legacy_model": true,
@@ -2322,6 +2386,14 @@
     {
         "weapon_defindex": 1,
         "weapon_name": "weapon_deagle",
+        "paint": 1458,
+        "paint_name": "Desert Eagle | Eastern Enigma",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_deagle_eastern_enigma_blue_light_png.png"
+    },
+    {
+        "weapon_defindex": 1,
+        "weapon_name": "weapon_deagle",
         "paint": 1430,
         "paint_name": "Desert Eagle | Firebreathing",
         "legacy_model": false,
@@ -2582,6 +2654,14 @@
         "paint_name": "Dual Berettas | Hydro Strike",
         "legacy_model": false,
         "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1f-vOiV6FhKeSWMW-Jxfx5j_J9XSC4kCIrujqNjsGgeHrGa1B2W5t1Q7NetkOwk4C2Ybzq4FDWjI0TzS6viilLv3tp6rwLT-N7rWtjCU_P"
+    },
+    {
+        "weapon_defindex": 2,
+        "weapon_name": "weapon_elite",
+        "paint": 1459,
+        "paint_name": "Dual Berettas | Mystic Conjunction",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_elite_dualies_mystic_conjunction_v3_light_png.png"
     },
     {
         "weapon_defindex": 2,
@@ -2910,6 +2990,22 @@
         "paint_name": "FAMAS | Bad Trip",
         "legacy_model": false,
         "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1d7v-ve5tvIfSHHG6A_uJ_t-l9AX6xzExytWndzdj6eCrGb1MkWZB2TOBc4xK8mtHkZezrsQOPjoITyi_gznQezHhrR0c"
+    },
+    {
+        "weapon_defindex": 10,
+        "weapon_name": "weapon_famas",
+        "paint": 1477,
+        "paint_name": "FAMAS | Corp Defense",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_corp_defense_light_png.png"
+    },
+    {
+        "weapon_defindex": 10,
+        "weapon_name": "weapon_famas",
+        "paint": 1461,
+        "paint_name": "FAMAS | Snake Song",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_snake_song_light_png.png"
     },
     {
         "weapon_defindex": 10,
@@ -3270,6 +3366,14 @@
         "paint_name": "Five-SeveN | Fall Hazard",
         "legacy_model": true,
         "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSNvWBGm6XztFwufdsXCylkBMYvzSCkpu3Ii-QbQ51XJpzQ-8PsUOwmoLvZLm3sQfb3tkTxHj-hytBv35jt7wFBL1lpPNwauo7lw"
+    },
+    {
+        "weapon_defindex": 3,
+        "weapon_name": "weapon_fiveseven",
+        "paint": 1457,
+        "paint_name": "Five-SeveN | Desert Seal",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_fiveseven_desert_seal_light_png.png"
     },
     {
         "weapon_defindex": 3,
@@ -4294,6 +4398,22 @@
         "paint_name": "Glock-18 | Gold Toof",
         "legacy_model": false,
         "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1c4_2tY5tuKP-eHmKC_uJ_t-l9ASvik00m5TmEzd-geSiQPARxX5IiTLIMtBW4l9zmNuPr4VbbjItHxC_gznQeqLQCTjk"
+    },
+    {
+        "weapon_defindex": 4,
+        "weapon_name": "weapon_glock",
+        "paint": 1450,
+        "paint_name": "Glock-18 | Ghost Protocol",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ghost_protocol_red_light_png.png"
+    },
+    {
+        "weapon_defindex": 4,
+        "weapon_name": "weapon_glock",
+        "paint": 1460,
+        "paint_name": "Glock-18 | Ifrit Lattice",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ifrit_lattice_light_png.png"
     },
     {
         "weapon_defindex": 4,
@@ -9466,6 +9586,22 @@
     {
         "weapon_defindex": 16,
         "weapon_name": "weapon_m4a1",
+        "paint": 1446,
+        "paint_name": "M4A4 | Dark Operative",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_black_side_matte_light_png.png"
+    },
+    {
+        "weapon_defindex": 16,
+        "weapon_name": "weapon_m4a1",
+        "paint": 1463,
+        "paint_name": "M4A4 | Falak",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_falak_light_png.png"
+    },
+    {
+        "weapon_defindex": 16,
+        "weapon_name": "weapon_m4a1",
         "paint": 118,
         "paint_name": "M4A4 | Turbine",
         "legacy_model": false,
@@ -9806,6 +9942,14 @@
         "paint_name": "M4A1-S | Party Animal",
         "legacy_model": false,
         "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_iKC1iRz-d7se1WXzu6mwkY6m2WpYPwJiPTcFNxDcMjEeUIuxK-wNWyPrzj4wePiIxGmCj5jngcuCpvt7wBAKFw-KbJz1aW-PVDUm8"
+    },
+    {
+        "weapon_defindex": 60,
+        "weapon_name": "weapon_m4a1_silencer",
+        "paint": 1476,
+        "paint_name": "M4A1-S | Fatal Glitch",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_hye_spyglitch_green_m4a1s_light_png.png"
     },
     {
         "weapon_defindex": 60,
@@ -10258,6 +10402,14 @@
     {
         "weapon_defindex": 17,
         "weapon_name": "weapon_mac10",
+        "paint": 1454,
+        "paint_name": "MAC-10 | Arabesque Mosaic",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_arabesque_gold_light_png.png"
+    },
+    {
+        "weapon_defindex": 17,
+        "weapon_name": "weapon_mac10",
         "paint": 1164,
         "paint_name": "MAC-10 | Light Box",
         "legacy_model": false,
@@ -10286,6 +10438,14 @@
         "paint_name": "MAC-10 | Derailment",
         "legacy_model": false,
         "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJt5MvGaAFiT0-9luN5lRi67gVN14j6Gy9_7cSqQZw4hW5BzEeICthW6kYe1ZO_ntQ3e2olGnn-vhygY8G81tHTA36iF"
+    },
+    {
+        "weapon_defindex": 17,
+        "weapon_name": "weapon_mac10",
+        "paint": 1448,
+        "paint_name": "MAC-10 | Video Cam",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_video_cam_light_png.png"
     },
     {
         "weapon_defindex": 17,
@@ -11058,6 +11218,14 @@
     {
         "weapon_defindex": 33,
         "weapon_name": "weapon_mp7",
+        "paint": 1468,
+        "paint_name": "MP7 | Base-2",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_mp7_binary_green_light_png.png"
+    },
+    {
+        "weapon_defindex": 33,
+        "weapon_name": "weapon_mp7",
         "paint": 1163,
         "paint_name": "MP7 | Just Smile",
         "legacy_model": false,
@@ -11426,10 +11594,26 @@
     {
         "weapon_defindex": 34,
         "weapon_name": "weapon_mp9",
+        "paint": 1473,
+        "paint_name": "MP9 | Dune Asp",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_dune_asp_light_png.png"
+    },
+    {
+        "weapon_defindex": 34,
+        "weapon_name": "weapon_mp9",
         "paint": 1193,
         "paint_name": "MP9 | Nexus",
         "legacy_model": false,
         "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0PyrcLF-H_yaCW-Ej7ohs7Q5FnDqx0t152XdzI36cCnDaAZyDJNzRuVYsBa4kYHgZbyx4ALAy9USEWUfUe0"
+    },
+    {
+        "weapon_defindex": 34,
+        "weapon_name": "weapon_mp9",
+        "paint": 1469,
+        "paint_name": "MP9 | Spy Prototype",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_prototype_extended_light_png.png"
     },
     {
         "weapon_defindex": 34,
@@ -11978,6 +12162,14 @@
     {
         "weapon_defindex": 35,
         "weapon_name": "weapon_nova",
+        "paint": 1474,
+        "paint_name": "Nova | Morning Sun",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_morning_sun_light_png.png"
+    },
+    {
+        "weapon_defindex": 35,
+        "weapon_name": "weapon_nova",
         "paint": 1350,
         "paint_name": "Nova | Ocular",
         "legacy_model": false,
@@ -11990,6 +12182,14 @@
         "paint_name": "Nova | Rising Sun",
         "legacy_model": false,
         "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwixU-fOReq1-Kf6UMXSFz9F6ueZhW2eyzB9z4WjTzt77JXKVaQcnC5sjTLEMthDpwdzkMr_lsVbW34lGmyj5kGoXuV-iSbwM"
+    },
+    {
+        "weapon_defindex": 35,
+        "weapon_name": "weapon_nova",
+        "paint": 1442,
+        "paint_name": "Nova | Smart Gun",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_smart_light_png.png"
     },
     {
         "weapon_defindex": 35,
@@ -12446,6 +12646,14 @@
         "paint_name": "P250 | Kintsugi",
         "legacy_model": false,
         "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRY61jNOOGCW6vzedxuPUnHXrikBkh4jjXzd76I36VPQF2CJV2FOYLthC5k9DiNuOwswKLj4JHxTK-0H3jhNNozg"
+    },
+    {
+        "weapon_defindex": 36,
+        "weapon_name": "weapon_p250",
+        "paint": 1455,
+        "paint_name": "P250 | Lotus Imprint",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_p250_lotus_imprint_glitter_purple_light_png.png"
     },
     {
         "weapon_defindex": 36,
@@ -13098,6 +13306,14 @@
     {
         "weapon_defindex": 64,
         "weapon_name": "weapon_revolver",
+        "paint": 1445,
+        "paint_name": "R8 Revolver | Monarch",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_r8_monarch_extended_light_png.png"
+    },
+    {
+        "weapon_defindex": 64,
+        "weapon_name": "weapon_revolver",
         "paint": 123,
         "paint_name": "R8 Revolver | Tango",
         "legacy_model": false,
@@ -13410,6 +13626,14 @@
     {
         "weapon_defindex": 29,
         "weapon_name": "weapon_sawedoff",
+        "paint": 1475,
+        "paint_name": "Sawed-Off | Lunar Wyrm",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_sawedoff_lunar_wyrm_light_png.png"
+    },
+    {
+        "weapon_defindex": 29,
+        "weapon_name": "weapon_sawedoff",
         "paint": 171,
         "paint_name": "Sawed-Off | Irradiated Alert",
         "legacy_model": true,
@@ -13626,10 +13850,26 @@
     {
         "weapon_defindex": 38,
         "weapon_name": "weapon_scar20",
+        "paint": 1470,
+        "paint_name": "SCAR-20 | Arctic Camo Panels",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_arctic_camo_panels_light_png.png"
+    },
+    {
+        "weapon_defindex": 38,
+        "weapon_name": "weapon_scar20",
         "paint": 1343,
         "paint_name": "SCAR-20 | Caged",
         "legacy_model": false,
         "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_PGvept_JfaBD2SEyOF4j_c9cCW6khUz_W_SmNirdSmVOFcmDJEjQrEPtROwxtGyYevqsgPcg98RxXishi1Bui91o7FVKL5cNSg"
+    },
+    {
+        "weapon_defindex": 38,
+        "weapon_name": "weapon_scar20",
+        "paint": 1453,
+        "paint_name": "SCAR-20 | Sirocco Script",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_sirocco_light_png.png"
     },
     {
         "weapon_defindex": 38,
@@ -14760,6 +15000,22 @@
         "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wjZe7KuRYrFjK-mSHGOvxOBxue9sSju6mxoYvzSCkpu3eHPFZwMkWZBzR-cDsEbpm9DvY-yx51fajd8WyXn4hntBvX465OkBVL1lpPMDDuBGag"
     },
     {
+        "weapon_defindex": 30,
+        "weapon_name": "weapon_tec9",
+        "paint": 1447,
+        "paint_name": "Tec-9 | Perimeter",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_perimeter_urban_light_png.png"
+    },
+    {
+        "weapon_defindex": 30,
+        "weapon_name": "weapon_tec9",
+        "paint": 1462,
+        "paint_name": "Tec-9 | Sultan",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_sultan_light_png.png"
+    },
+    {
         "weapon_defindex": 24,
         "weapon_name": "weapon_ump45",
         "paint": 1085,
@@ -15472,6 +15728,14 @@
         "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSNeODHViDyOJzvvVWTSaqqhEutDWR1Nf8cn_CPAQmW8Z5Ee8P4UbuxILmMLu3tAXYj4hByyWsjCscvy89sOYcEf1yCvXTIoM"
     },
     {
+        "weapon_defindex": 61,
+        "weapon_name": "weapon_usp_silencer",
+        "paint": 1451,
+        "paint_name": "USP-S | Spiral Glitch",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_usps_spiral_glitch_iridescent_light_png.png"
+    },
+    {
         "weapon_defindex": 25,
         "weapon_name": "weapon_xm1014",
         "paint": 1021,
@@ -15798,6 +16062,14 @@
         "paint_name": "XM1014 | Blue Tire",
         "legacy_model": false,
         "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk_OKRfK1_Jc-HHGKRxdF0vPRscCW6khUz_T7Vydn7dS6UZ1ciD8YhE7Je4Rm-l4bjN-mxtVaPi9lMxSqqjy9B7Xx1o7FVHG_KYuo"
+    },
+    {
+        "weapon_defindex": 25,
+        "weapon_name": "weapon_xm1014",
+        "paint": 1471,
+        "paint_name": "XM1014 | Black Site",
+        "legacy_model": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_xm1014_xm1014_black_site_light_png.png"
     },
     {
         "weapon_defindex": 25,

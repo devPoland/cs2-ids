@@ -347,7 +347,7 @@
     {
         "id": "40",
         "name": "Halo, The Master Chief Collection",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/music_kits/halo_01.a49952f4e059871c05f6d829f6f29a1a2ccbddc2.png"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPXqb6mklpcn1vgC-FE_3ypOwqHsDuKOtOPFrdvTLXD6Wl-gk6eA4Tnuwlh8jtz7X1J_3JlK1Y0Yt"
     },
     {
         "id": "41",
@@ -362,7 +362,7 @@
     {
         "id": "42",
         "name": "Half-Life: Alyx, Anti-Citizen",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/music_kits/hlalyx_01.695e0b07f37980650d408fd3260737df825d1f91.png"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPXeW6U9ty9elpA--FBihnMa3-3EMtqr-PvE9JKTDVmGUkrwg4LY6GC21zU9yt2yDw963MSXAJjr9su4"
     },
     {
         "id": "43",
@@ -447,7 +447,7 @@
     {
         "id": "51",
         "name": "Darren Korb, Hades Music Kit",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/music_kits/hades_01.41336135661d422039fe700e0bf4c8176886194e.png"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPXqT4EVKpNa6vgi0EkugzcO2q3Nfu6D8OPc0JvXEXjeVkexw5OIxHn7lzUVx4mTRn8HpLyy5vFaXRw"
     },
     {
         "id": "52",
@@ -632,7 +632,7 @@
     {
         "id": "70",
         "name": "Valve, CS:GO",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/music_kits/valve_01.a22bb7e41ed9f28f93ac66f80f74716560236318.png"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuI3qb81NKpNa66wu1Qx-mm8Kx-CYC6aD2bv0-IfPFWGHIkegh5LY4GXzlxU905W7UwsHpLywWgep6oQ"
     },
     {
         "id": "71",
@@ -883,5 +883,65 @@
         "id": "96_st",
         "name": "StatTrak™ Music Kit | Tigercub, The Perfume of Decay",
         "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIXKQ4ER24YXLugipQEn0mpPl_icD6qD4a6c7I6XGWTbFx7ZysbIxG3C3zEtz4G6BmImoImXXMFEshFifrQ"
+    },
+    {
+        "id": "98",
+        "name": "Music Kit | ALRT, DOPAMINE HIT",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNHeF8Wklpcmtu120GR6hy8O5-3MJ7Pb6PaY_I_bBXjHJmbd1s7Y8FyrkwEty5jjS1J_3JrXfbNYF"
+    },
+    {
+        "id": "98_st",
+        "name": "StatTrak™ Music Kit | ALRT, DOPAMINE HIT",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNHeF8Wklpcmtu120GR6hy8O5-3MJ7Pb6PaY_I_bBXjHJmbd1s7Y8FyrkwEty5jjS1J_3JrXfbNYF"
+    },
+    {
+        "id": "99",
+        "name": "Music Kit | Altare, Change My Mind",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNHeD5ERwy9elpFq3Fx6hmJLlrHAJv_eqOKI1JKSVWDXGkLovtLJoF3Hik00htTzWyt-3MSXAv8iGC0E"
+    },
+    {
+        "id": "99_st",
+        "name": "StatTrak™ Music Kit | Altare, Change My Mind",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNHeD5ERwy9elpFq3Fx6hmJLlrHAJv_eqOKI1JKSVWDXGkLovtLJoF3Hik00htTzWyt-3MSXAv8iGC0E"
+    },
+    {
+        "id": "100",
+        "name": "Music Kit | borne, Give It To Me",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuN3SF61NKpNa66VrjQhigmpCx-Xdf7qWvO_0_IfHBCmHCkrcm6LgwS3vkzUlzsD_Vm8HpLywQpLob3g"
+    },
+    {
+        "id": "100_st",
+        "name": "StatTrak™ Music Kit | borne, Give It To Me",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuN3SF61NKpNa66VrjQhigmpCx-Xdf7qWvO_0_IfHBCmHCkrcm6LgwS3vkzUlzsD_Vm8HpLywQpLob3g"
+    },
+    {
+        "id": "101",
+        "name": "Music Kit | Pirapus, EVERYNITE",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJXKF5EZg57ikuxewRUmkmMaw_yZY6qf3OPY6JKeRD2XIk78m5udtS3G1xhx-tT-Hy96obzvJOYRCqud0"
+    },
+    {
+        "id": "101_st",
+        "name": "StatTrak™ Music Kit | Pirapus, EVERYNITE",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJXKF5EZg57ikuxewRUmkmMaw_yZY6qf3OPY6JKeRD2XIk78m5udtS3G1xhx-tT-Hy96obzvJOYRCqud0"
+    },
+    {
+        "id": "102",
+        "name": "Music Kit | Repiet & Julia Kleijn, On And On",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJ36H7FNhy9elpFu3QkXyyZe3pHcI6_D8bPI0cvLCXzTCw7ovs7RtGXjhzEl-6z6Emda3MSXAtLvhCgA"
+    },
+    {
+        "id": "102_st",
+        "name": "StatTrak™ Music Kit | Repiet & Julia Kleijn, On And On",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJ36H7FNhy9elpFu3QkXyyZe3pHcI6_D8bPI0cvLCXzTCw7ovs7RtGXjhzEl-6z6Emda3MSXAtLvhCgA"
+    },
+    {
+        "id": "103",
+        "name": "Music Kit | ShockOne, Voices",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJnOY5l16-oLLugipEE7zmM63-SFfuKv-MPc6eKfLWDHJk74l6eJoHC23zEh-t2yHyN_7dWXXMFFiTTCrFg"
+    },
+    {
+        "id": "103_st",
+        "name": "StatTrak™ Music Kit | ShockOne, Voices",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJnOY5l16-oLLugipEE7zmM63-SFfuKv-MPc6eKfLWDHJk74l6eJoHC23zEh-t2yHyN_7dWXXMFFiTTCrFg"
     }
 ]
