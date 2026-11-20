@@ -943,5 +943,95 @@
         "id": "103_st",
         "name": "StatTrak™ Music Kit | ShockOne, Voices",
         "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJnOY5l16-oLLugipEE7zmM63-SFfuKv-MPc6eKfLWDHJk74l6eJoHC23zEh-t2yHyN_7dWXXMFFiTTCrFg"
+    },
+    {
+        "id": "104",
+        "name": "Music Kit | Starjunk 95, Industrial Sunset Memories",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJm-W91xg-oytv2a3EFOpycPlqCdatqGqOaE_I6nLVzbCw7pw4rZrTnHhwEtx6m-Dw43_JS-WcEZ-XYyGj8X1"
+    },
+    {
+        "id": "104_st",
+        "name": "StatTrak™ Music Kit | Starjunk 95, Industrial Sunset Memories",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJm-W91xg-oytv2a3EFOpycPlqCdatqGqOaE_I6nLVzbCw7pw4rZrTnHhwEtx6m-Dw43_JS-WcEZ-XYyGj8X1"
+    },
+    {
+        "id": "105",
+        "name": "Music Kit | ALLEYCVT & LEVEL UP, BELIEVE",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/alleycvt_01_png.png"
+    },
+    {
+        "id": "105_st",
+        "name": "StatTrak™ Music Kit | ALLEYCVT & LEVEL UP, BELIEVE",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/alleycvt_01_png.png"
+    },
+    {
+        "id": "106",
+        "name": "Music Kit | Arcando & Pirapus, Ultrasound",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/arcando_01_png.png"
+    },
+    {
+        "id": "106_st",
+        "name": "StatTrak™ Music Kit | Arcando & Pirapus, Ultrasound",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/arcando_01_png.png"
+    },
+    {
+        "id": "107",
+        "name": "Music Kit | DJ DIESEL & Hairitage, BANG YOUR HEAD",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/djdiesel_01_png.png"
+    },
+    {
+        "id": "107_st",
+        "name": "StatTrak™ Music Kit | DJ DIESEL & Hairitage, BANG YOUR HEAD",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/djdiesel_01_png.png"
+    },
+    {
+        "id": "108",
+        "name": "Music Kit | F.O.O.L, Criminals",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/fool_01_png.png"
+    },
+    {
+        "id": "108_st",
+        "name": "StatTrak™ Music Kit | F.O.O.L, Criminals",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/fool_01_png.png"
+    },
+    {
+        "id": "109",
+        "name": "Music Kit | Noisestorm, Crab Rave",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/noisestorm_01_png.png"
+    },
+    {
+        "id": "109_st",
+        "name": "StatTrak™ Music Kit | Noisestorm, Crab Rave",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/noisestorm_01_png.png"
+    },
+    {
+        "id": "110",
+        "name": "Music Kit | Pegboard Nerds, Disconnected",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/pegboardnerds_01_png.png"
+    },
+    {
+        "id": "110_st",
+        "name": "StatTrak™ Music Kit | Pegboard Nerds, Disconnected",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/pegboardnerds_01_png.png"
+    },
+    {
+        "id": "111",
+        "name": "Music Kit | Tristam & Braken, Flight",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/tristam_braken_01_png.png"
+    },
+    {
+        "id": "111_st",
+        "name": "StatTrak™ Music Kit | Tristam & Braken, Flight",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/tristam_braken_01_png.png"
+    },
+    {
+        "id": "112",
+        "name": "Music Kit | Vicetone & Cozi Zuehlsdorff, Nevada",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/vicetone_01_png.png"
+    },
+    {
+        "id": "112_st",
+        "name": "StatTrak™ Music Kit | Vicetone & Cozi Zuehlsdorff, Nevada",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/vicetone_01_png.png"
     }
 ]

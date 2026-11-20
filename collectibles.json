@@ -2712,7 +2712,7 @@
     {
         "id": "5275",
         "name": "2026 Service Medal",
-        "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/service_medal_2026_lvl6.b20caa7d37265c861c451af1cd12e0d4f76c0470.png"
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSE4ERj_YTx1VTiRRz9ocSwr3Rk4-SiPupvcqCQD2bHxb0h4rc8THHlxB5z5myEnN76JXqVOwZ0DsR3Q7QKthe4jJS5YMW6i1J6"
     },
     {
         "id": "5276",
@@ -2993,6 +2993,56 @@
         "id": "5365",
         "name": "Premier Season Five Medal",
         "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_75.087fd587af57282cafcacf2eb49145f4d5744803.png"
+    },
+    {
+        "id": "5410",
+        "name": "Singapore 2026 Viewer Pass",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/singapore2026/singapore2026_pass_png.png"
+    },
+    {
+        "id": "5411",
+        "name": "Singapore 2026 Viewer Pass + 900 Tokens",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/singapore2026/singapore2026_pass_pack_png.png"
+    },
+    {
+        "id": "5412",
+        "name": "Singapore 2026 Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/singapore2026/singapore2026_coin_bronze_png.png"
+    },
+    {
+        "id": "5413",
+        "name": "Singapore 2026 Silver Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/singapore2026/singapore2026_coin_silver_png.png"
+    },
+    {
+        "id": "5414",
+        "name": "Singapore 2026 Gold Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/singapore2026/singapore2026_coin_gold_png.png"
+    },
+    {
+        "id": "5415",
+        "name": "Singapore 2026 Diamond Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/singapore2026/singapore2026_coin_crystal_png.png"
+    },
+    {
+        "id": "5419",
+        "name": "Champion at PGL Singapore 2026",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSD91ll_J7L6Uq1fh75n5vw9C1V_Lyobv0_IabEDDfDlLgis7Q7TXuylE1-tTvSmduodHjGOwElAsEiQu9crFDmxSMnd7Jc"
+    },
+    {
+        "id": "5420",
+        "name": "Finalist at PGL Singapore 2026",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSD91ll_J7L6Uq1fhv4kJfs9DFP_Lysa_w4JqGQDWaVkOp36bM4F3-1lEx1sG_XzNqtcn7DaFIhA5AiRuANrFDmxWMFZezK"
+    },
+    {
+        "id": "5421",
+        "name": "Semifinalist at PGL Singapore 2026",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSD91ll_J7L6Uq1fhv4kJfs9DFP_Lysa_w4JqGQDWaVkOp36bM4F3-1lEx1sG_XzNqtcn7DaFIhA5AiRuANrFDmxWMFZezK"
+    },
+    {
+        "id": "5422",
+        "name": "Quarterfinalist at PGL Singapore 2026",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSD91ll_J7L6Uq1fhv4kJfs9DFP_Lysa_w4JqGQDWaVkOp36bM4F3-1lEx1sG_XzNqtcn7DaFIhA5AiRuANrFDmxWMFZezK"
     },
     {
         "id": "6001",
